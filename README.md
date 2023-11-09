@@ -36,3 +36,6 @@ These plots are with respect to the frames processed from the video.
 ![Initial Plot](Results\corner_detection.png)
 ![Fitted Plot](Results\edges.png)
 ![Initial Plot](Results\translation.png)
+
+<img src ="Results\corner_detection.png" width=400/>
+<img src ="Results\edges.png" width=400/>
